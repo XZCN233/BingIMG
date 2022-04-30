@@ -43,4 +43,5 @@
 ## 感谢.
 - [MS Bing](https://cn.bing.com)提供每日必应图及开放API.
 - [Nyan2](https://github.com/nyan2)提供PHP技术支持.
-- 以及另外共计2个GirHub MIT储存库, 3篇CSDN博文, 2篇博客园博文.
+- [XIAYM](https://xiaym.ml)提供PHP技术支持.</li>
+- 以及另外共计3个GirHub MIT储存库, 12篇CSDN博文, 7篇博客园博文.
