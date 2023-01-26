@@ -1,18 +1,9 @@
 # BingIMG.
+#### 本项目已经停止维护
 抓取并下载每日必应图.
 如果这个项目有帮助到您, 希望您能点亮Star.
 
-## 多语言Language.（在做. Coming Soon.）.
-- 繁體中文.
-- 繁中版來自網絡簡繁轉換工具.
-- 繁中版来自网络简繁转换工具.
-- English.
-- English version is mainly from Google Translation and partly from Youdao Translation.
-- 英语版主要来自谷歌翻译, 部分来自有道翻译.
-- 日本語.
-- 日本語版は主にGoogle翻訳からのもので、一部は有道翻訳からのものです.
-- 日语版主要来自谷歌翻译, 部分来自有道翻译.
-- 需要其他语言版本请联系站点管理员或站点服务方邮箱.
+## 多语言Language.（停止维护，不做了）
 
 ## 兼容性.
 - 服务端：程序基于PHP 7.4 编写, 可以完美兼容 PHP 7.x（4+）版本, 理论上8.x也能运行.
